@@ -1,5 +1,6 @@
 // Definindo variáveis
-let nome = "Nascimento"; // Insira o nome do herói aqui
+let nome = "Israel"; // Insira o nome do herói aqui
+let nickName = "IPNascimento"
 let xp = 9500; // Insira a quantidade de experiência aqui
 
 // Variável para armazenar o nível do herói
@@ -25,4 +26,4 @@ if (xp < 1000) {
 }
 
 // Exibindo a mensagem final
-console.log(`O Herói de nome ${nome} está no nível de ${nivel}`);
+console.log("O Herói de nome " + nickName +" está no nível de "+nivel);
