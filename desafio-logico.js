@@ -1,5 +1,5 @@
 // Definindo variáveis
-let nome = "Arthur"; // Insira o nome do herói aqui
+let nome = "Nascimento"; // Insira o nome do herói aqui
 let xp = 9500; // Insira a quantidade de experiência aqui
 
 // Variável para armazenar o nível do herói
